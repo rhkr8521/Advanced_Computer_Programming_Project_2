@@ -13,7 +13,7 @@
 
 ## Project Demo
 <img width="1036" alt="스크린샷 2024-06-08 오후 9 11 15" src="https://github.com/rhkr8521/Advanced_Computer_Programming_Project_2/assets/12209059/224db8b4-b8e0-47dd-94cb-05299831b0f0">
-<img width="681" alt="스크린샷 2024-05-30 오전 9 37 37" src="https://github.com/rhkr8521/Advanced_Computer_Programming_Project_2/assets/12209059/4c2e9d57-5060-47d9-9ce9-bddc0476e0eb">
+<img width="745" alt="스크린샷 2024-06-19 오후 1 37 02" src="https://github.com/rhkr8521/Advanced_Computer_Programming_Project_2/assets/12209059/2a71d691-c60c-4c12-9313-4c6f6dee0f2c">
 <img width="598" alt="스크린샷 2024-06-19 오후 1 35 06" src="https://github.com/rhkr8521/Advanced_Computer_Programming_Project_2/assets/12209059/60ab268c-ff78-48da-9ee5-cd0ef97eaa2f">
 
 ## Install Project
